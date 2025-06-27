@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>- [Active Directory Home Lab](https://github.com/KaylaDDavis/ActiveDirectoryLab)
-- -[Linux VM Lab + System Monitoring](https://github.com/kayladdavisurl)
+- -[Linux VM Lab + System Monitoring](https://github.com/KaylaDDavis/-Linux-VM-Lab-System-Monitoring)
 
 
 <h2>📄 Certificates</h2>
