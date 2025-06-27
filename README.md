@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>- [Active Directory Home Lab](https://github.com/kayladdavisurl)
+- <b>- [Active Directory Home Lab](https://github.com/KaylaDDavis/ActiveDirectoryLab)
 - -[Linux VM Lab + System Monitoring](https://github.com/kayladdavisurl)
 
 
